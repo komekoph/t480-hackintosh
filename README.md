@@ -1,7 +1,7 @@
 # t480-hackintosh
 A project running macos on a corebooted Thinkpad T480. Because of compatibility issues, this project has been halted. If you want to try or fix something by yourself, you can get this efi and use it (Also generate a new smbios).
 
-Laptop specs:
+## Laptop specs:
 
   - CPU: I5 8350U
   - GPU: UHD 620

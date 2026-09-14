@@ -1,14 +1,14 @@
 # t480-hackintosh
 A project running macos on a corebooted Thinkpad T480. Because of compatibility issues, this project has been halted. If you want to try or fix something by yourself, you can get this efi and use it (Also generate a new smbios).
 
-## Laptop specs:
+### Laptop specs:
 
   - CPU: I5 8350U
   - GPU: UHD 620
   - RAM: 16GB DDR4 2400MHz
   - STORAGE: 256GB NVME SSD
 
-What's working:
+### What's working:
 
   - GPU acceleration (buggy even though it has full metal support, black window firefox and kitty is the issue that made me decided to leave this project) 
   - USB ports, USB-C
@@ -16,7 +16,7 @@ What's working:
   - HDMI out
   - Wifi (intel, there are a lot of guides for you to follow and have a working wifi and bt without external apps)
 
-What's not working:
+### What's not working:
 
   - Battery (can't boot into macos after install battery)
   - iServices (can patch)
